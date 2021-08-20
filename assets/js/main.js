@@ -54,7 +54,7 @@ tabNav.forEach((tab,index) => {
                         name: 'BẢN NHẠC KHÔNG TÊN',
                         singer: 'Biên Lê Z',
                         path: './assets/music/13.mp3',
-                        image:'./assets/img/Bienle.JPG'
+                        image:'./assets/img/13.jpg'
                     },
                     {
                         name: 'Stream Đến Bao Giờ',
